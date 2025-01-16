@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//aakash-patil2002.github.io/cryptoplace/static/css/main.1f267eeb.css",
+    "main.js": "//aakash-patil2002.github.io/cryptoplace/static/js/main.8a172f04.js",
+    "index.html": "//aakash-patil2002.github.io/cryptoplace/index.html",
+    "main.1f267eeb.css.map": "//aakash-patil2002.github.io/cryptoplace/static/css/main.1f267eeb.css.map",
+    "main.8a172f04.js.map": "//aakash-patil2002.github.io/cryptoplace/static/js/main.8a172f04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f267eeb.css",
+    "static/js/main.8a172f04.js"
+  ]
+}
